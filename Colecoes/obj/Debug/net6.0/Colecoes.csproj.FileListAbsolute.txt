@@ -1,0 +1,15 @@
+D:\Projetos\Exemplos Coleções\Colecoes\bin\Debug\net6.0\Colecoes.exe
+D:\Projetos\Exemplos Coleções\Colecoes\bin\Debug\net6.0\Colecoes.deps.json
+D:\Projetos\Exemplos Coleções\Colecoes\bin\Debug\net6.0\Colecoes.runtimeconfig.json
+D:\Projetos\Exemplos Coleções\Colecoes\bin\Debug\net6.0\Colecoes.dll
+D:\Projetos\Exemplos Coleções\Colecoes\bin\Debug\net6.0\ref\Colecoes.dll
+D:\Projetos\Exemplos Coleções\Colecoes\bin\Debug\net6.0\Colecoes.pdb
+D:\Projetos\Exemplos Coleções\Colecoes\obj\Debug\net6.0\Colecoes.csproj.AssemblyReference.cache
+D:\Projetos\Exemplos Coleções\Colecoes\obj\Debug\net6.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Exemplos Coleções\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfoInputs.cache
+D:\Projetos\Exemplos Coleções\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfo.cs
+D:\Projetos\Exemplos Coleções\Colecoes\obj\Debug\net6.0\Colecoes.csproj.CoreCompileInputs.cache
+D:\Projetos\Exemplos Coleções\Colecoes\obj\Debug\net6.0\Colecoes.dll
+D:\Projetos\Exemplos Coleções\Colecoes\obj\Debug\net6.0\ref\Colecoes.dll
+D:\Projetos\Exemplos Coleções\Colecoes\obj\Debug\net6.0\Colecoes.pdb
+D:\Projetos\Exemplos Coleções\Colecoes\obj\Debug\net6.0\Colecoes.genruntimeconfig.cache
